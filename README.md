@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Daniel
 
 I'm going to be a web developer :)
-
+I like to automate task on my laptop.
 I'm currently learning:
 - HTML
 - CSS
@@ -9,10 +9,15 @@ I'm currently learning:
 - Python
 - Php
 
-Also I like maths.
+Also I like maths and chess.
 
-I'd like to collaborate in projects of web development for beginners. 
+I'd like to collaborate in projects of web development for beginners.
 
+***
+![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=luis-dt&hide=contribs,prs&theme=buefy&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-dt&layout=compact&theme=buefy)](https://github.com/luis-dt/github-readme-stats)
+***
 <!--
 **luis-dt/luis-dt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
