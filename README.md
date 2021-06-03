@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Daniel
 
 I'm going to be a web developer :)
-I like to automate task on my laptop.
+
+I like to automate tasks on my laptop.
+
 I'm currently learning:
 - HTML
 - CSS
