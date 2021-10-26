@@ -1,19 +1,6 @@
 ## Hi there 👋 I'm Daniel
 
-I'm going to be a web developer :)
-
-I like to automate tasks on my laptop.
-
-I'm currently learning:
-- HTML
-- CSS
-- JavaScript
-- Python
-- Php
-
-Also I like maths and chess.
-
-I'd like to collaborate in projects of web development for beginners.
+I code
 
 ***
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=luis-dt&hide=contribs,prs&theme=buefy&show_icons=true)
