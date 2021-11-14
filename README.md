@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Daniel
 
-I'm learning to code
+I'm learning web development
 
 ***
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=luis-dt&hide=contribs,prs&theme=buefy&show_icons=true)
