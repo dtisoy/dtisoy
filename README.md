@@ -2,8 +2,8 @@
 
 <p align="center">
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-dt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" width = 450 />
-   <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=luis-dt&theme=dark&hide_border=true" width = 450>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-dt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" width = 400 />
+   <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=luis-dt&theme=dark&hide_border=true" width = 400>
 </p>
  
  
