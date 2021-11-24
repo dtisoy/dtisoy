@@ -1,23 +1,18 @@
-## Hi there 👋 I'm Daniel
+<h1 align="center">Hi there 👋 I'm Daniel</h1>
 
-I'm learning web development
+<p align="center">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-dt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" width = 450 />
+   <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=luis-dt&theme=dark&hide_border=true" width = 450>
+</p>
+ 
+ 
+ ## About me
+ I'm learning web development
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-dt&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
 
-***
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=luis-dt&hide=contribs,prs&theme=buefy&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ltisoy&theme=cobalt&hide_border=true&card_width=450" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-dt&layout=compact&theme=buefy)](https://github.com/luis-dt/github-readme-stats)
-***
-<!--
-**luis-dt/luis-dt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
