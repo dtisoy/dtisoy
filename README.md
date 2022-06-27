@@ -10,7 +10,7 @@
  
  
  ## About me
- I'm learning web development
+ **I'm doing a degree in Computer Science :)**
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisoy&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
 
