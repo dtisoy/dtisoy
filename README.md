@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Daniel</h1>
 
-[![wakatime](https://wakatime.com/badge/user/d51f58e2-1cfa-4837-ad2c-2cb3411fb814.svg)](https://wakatime.com/@d51f58e2-1cfa-4837-ad2c-2cb3411fb814)
-
 <p align="center">
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtisoy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian&hide_stars=false" width = 400 />
@@ -10,6 +8,8 @@
  
  
  ## About me
+ [![wakatime](https://wakatime.com/badge/user/d51f58e2-1cfa-4837-ad2c-2cb3411fb814.svg)](https://wakatime.com/@d51f58e2-1cfa-4837-ad2c-2cb3411fb814)
+ 
  **I'm doing a degree in Computer Science :)**
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisoy&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
