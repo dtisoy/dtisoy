@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Daniel</h1>
 
-<p align="center"><em>A pasionated coder, currently I'm doing a degree in Computer Science, learning by myself :)</em></p>
+<p align="center"><em>A pasionated coder, currently I'm doing a degree in Computer Science, self taught student :)</em></p>
 
 ### About Me
 
