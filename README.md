@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 📝 I’m currently learning web development, ciberSecurity.
+- 📝 I’m currently learning web development, cybersecurity.
 - 🌐 Website dtisoy.github.io
 
 <div align="center">
