@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Daniel</h1>
 
-<p align="center"><em>A pasionated coder, currently I'm doing a degree in Computer Science, self taught student :)</em></p>
+<p align="center"><em>Coder, Computer Science student, self taught student :)</em></p>
 
 ### About Me
 
-- 📝 I’m currently learning web development, cybersecurity.
-- 🌐 Website dtisoy.github.io
+- 📝 Working on something cool! ;)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisoy&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
