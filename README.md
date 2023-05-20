@@ -20,5 +20,7 @@
 
 [//]: <> (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dtisoy&theme=tokyonight&hide_border=true&card_width=450" /> )
 
-
+### weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 (Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a> , <a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>)
