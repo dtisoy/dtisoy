@@ -23,16 +23,16 @@
 ### weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
-From: 01 May 2023 - To: 31 May 2023
+```txt
+From: 02 May 2023 - To: 01 June 2023
 
-Total Time: 28 hrs 26 mins
+Total Time: 27 hrs 54 mins
 
-Python       26 hrs 57 mins  ███████████████████████▓░   94.74 %
-Bash         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-HTML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-SQL          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Text         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python       26 hrs 28 mins  ███████████████████████▓░   94.83 %
+Bash         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+HTML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+SQL          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+netrw        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
