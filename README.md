@@ -2,13 +2,14 @@
 
 <p align="center"><em>Coder, Computer Science student, self taught student :)</em></p>
 
+
 ### About Me
 
 - 📝 Working on something cool! ;)
-
+  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisoy&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
-</div>
+</div><div align="center"><br /><img src="https://www.codewars.com/users/dtisoy/badges/large" /></div>
 
 ### My Stats
 
