@@ -24,15 +24,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
-Total Time: 7 hrs 27 mins
+Total Time: 7 hrs
 
-HTML         3 hrs 59 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤------------   53.60 %
-CSS          1 hr 46 mins    ¤¤¤¤¤¤-------------------   23.76 %
-Bash         57 mins         ¤¤¤----------------------   12.76 %
-Markdown     17 mins         ¤------------------------   03.87 %
-Vim Script   13 mins         ¤------------------------   03.03 %
+CSS          4 hrs 57 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤-------   70.85 %
+HTML         1 hr 20 mins    ¤¤¤¤¤--------------------   19.21 %
+Python       34 mins         ¤¤-----------------------   08.28 %
+Git Config   7 mins          -------------------------   01.67 %
 ```
 
 <!--END_SECTION:waka-->
