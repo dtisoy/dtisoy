@@ -25,14 +25,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2023 - To: 22 July 2023
+From: 22 July 2023 - To: 29 July 2023
 
-Total Time: 4 hrs 31 mins
+Total Time: 4 hrs 57 mins
 
-CSS        2 hrs 46 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤----------   61.19 %
-HTML       1 hr 45 mins    ¤¤¤¤¤¤¤¤¤¤---------------   38.77 %
-Io         0 secs          -------------------------   00.02 %
-Markdown   0 secs          -------------------------   00.02 %
+CSS          3 hrs 18 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤--------   66.94 %
+HTML         1 hr 1 min      ¤¤¤¤¤--------------------   20.83 %
+JavaScript   34 mins         ¤¤¤----------------------   11.75 %
+Markdown     0 secs          -------------------------   00.29 %
+Other        0 secs          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
