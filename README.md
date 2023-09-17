@@ -25,12 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 09 September 2023 - To: 16 September 2023
 
-Total Time: 3 hrs 36 mins
+Total Time: 7 hrs 46 mins
 
-JavaScript   3 hrs 28 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤-   96.04 %
-Markdown     8 mins          ¤------------------------   03.96 %
+JavaScript   7 hrs 30 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤-   96.74 %
+Markdown     15 mins         ¤------------------------   03.26 %
 ```
 
 <!--END_SECTION:waka-->
