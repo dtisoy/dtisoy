@@ -25,15 +25,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Total Time: 47 mins
+Total Time: 4 hrs 27 mins
 
-Python       28 mins         ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤----------   58.64 %
-Bash         9 mins          ¤¤¤¤¤--------------------   19.63 %
-Text         8 mins          ¤¤¤¤¤--------------------   18.72 %
-Git Config   1 min           ¤------------------------   03.00 %
-Markdown     0 secs          -------------------------   00.01 %
+Bash         1 hr 50 mins    ¤¤¤¤¤¤¤¤¤¤---------------   41.13 %
+JavaScript   1 hr 27 mins    ¤¤¤¤¤¤¤¤-----------------   32.85 %
+HTML         32 mins         ¤¤¤----------------------   12.14 %
+Markdown     15 mins         ¤------------------------   05.96 %
+Python       8 mins          ¤------------------------   03.13 %
 ```
 
 <!--END_SECTION:waka-->
