@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
 Total Time: 0 secs
 
