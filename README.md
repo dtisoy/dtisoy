@@ -25,15 +25,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 20 January 2024 - To: 27 January 2024
 
-Total Time: 3 hrs 33 mins
+Total Time: 6 hrs 52 mins
 
-Python       2 hrs           ¤¤¤¤¤¤¤¤¤¤¤¤¤¤-----------   56.54 %
-Bash         59 mins         ¤¤¤¤¤¤¤------------------   27.69 %
-Vim Script   17 mins         ¤¤-----------------------   08.21 %
-Markdown     9 mins          ¤------------------------   04.63 %
-HTML         6 mins          ¤------------------------   02.93 %
+Python       4 hrs 29 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤---------   65.33 %
+HTML         46 mins         ¤¤¤----------------------   11.16 %
+Bash         45 mins         ¤¤¤----------------------   11.06 %
+CSV          20 mins         ¤------------------------   04.97 %
+sh           12 mins         ¤------------------------   03.07 %
 ```
 
 <!--END_SECTION:waka-->
