@@ -25,14 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2024 - To: 03 February 2024
+From: 03 February 2024 - To: 10 February 2024
 
-Total Time: 16 mins
+Total Time: 0 secs
 
-Bash         6 mins          ¤¤¤¤¤¤¤¤¤¤---------------   40.73 %
-Other        5 mins          ¤¤¤¤¤¤¤¤¤----------------   34.54 %
-JavaScript   3 mins          ¤¤¤¤¤¤-------------------   23.87 %
-Text         0 secs          -------------------------   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
