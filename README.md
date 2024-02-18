@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 10 February 2024 - To: 17 February 2024
 
 Total Time: 0 secs
 
