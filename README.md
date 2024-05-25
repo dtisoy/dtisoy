@@ -1,21 +1,24 @@
-<h1 align="center">Hi there 👋 I'm Daniel</h1>
+<h1>Hi there 👋 I'm Daniel</h1>
 
-<p align="center"><em>Coder, Computer Science student, self taught student :)</em></p>
+<p><em>Coder, Computer Science student, self taught student :)</em></p>
 
 
 ### About Me
 
 - 📝 Working on something cool! ;)
   
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtisoy&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
-</div><div align="center"><br /><img src="https://www.codewars.com/users/dtisoy/badges/large" /></div>
+</div>
+
+### Codewars badge
+<div align="left"><br /><img src="https://www.codewars.com/users/dtisoy/badges/large" /></div>
 
 ### My Stats
 
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtisoy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian&hide_stars=true" width = 400 />
-   <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=dtisoy&theme=prussian&hide_border=true" width = 400>
+<div align="left"> 
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=dtisoy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=prussian&hide_stars=true" width = 400 /><br/>
+   <img height="180rem" src = "https://github-readme-streak-stats.herokuapp.com?user=dtisoy&theme=prussian&hide_border=true" width = 410>
 </div>
 
 
