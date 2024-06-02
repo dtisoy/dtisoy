@@ -28,11 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2024 - To: 25 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-Total Time: 0 secs
+Total Time: 6 hrs 7 mins
 
-No activity tracked
+Python       2 hrs 39 mins   ¤¤¤¤¤¤¤¤¤¤¤--------------   43.25 %
+JavaScript   1 hr 51 mins    ¤¤¤¤¤¤¤¤-----------------   30.33 %
+CSS          39 mins         ¤¤¤----------------------   10.62 %
+Vim Script   18 mins         ¤------------------------   05.04 %
+Other        15 mins         ¤------------------------   04.31 %
 ```
 
 <!--END_SECTION:waka-->
