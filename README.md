@@ -28,12 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 08 June 2024 - To: 15 June 2024
 
-Total Time: 7 mins
+Total Time: 1 hr 30 mins
 
-JavaScript   3 mins          ¤¤¤¤¤¤¤¤¤¤¤¤¤------------   53.01 %
-Other        3 mins          ¤¤¤¤¤¤¤¤¤¤¤¤-------------   46.99 %
+SQL          58 mins         ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤---------   65.26 %
+JavaScript   21 mins         ¤¤¤¤¤¤-------------------   23.88 %
+Python       9 mins          ¤¤¤----------------------   10.63 %
+Other        0 secs          -------------------------   00.23 %
 ```
 
 <!--END_SECTION:waka-->
