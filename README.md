@@ -1,4 +1,5 @@
 <h1>Hi there 👋 I'm Daniel</h1>
+<img src="https://komarev.com/ghpvc/?username=dtisoy&color=blue"/>
 
 <p><em>Coder, Computer Science student, self taught student :)</em></p>
 
