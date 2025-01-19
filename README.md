@@ -29,11 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 0 secs
+Total Time: 41 mins
 
-JSON   0 secs          ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤   100.00 %
+JavaScript   38 mins         ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤--   92.75 %
+JSON         2 mins          ¤¤-----------------------   07.18 %
+Other        0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
