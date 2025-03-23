@@ -29,15 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 March 2025 - To: 15 March 2025
+From: 15 March 2025 - To: 22 March 2025
 
-Total Time: 13 hrs 33 mins
+Total Time: 7 hrs 10 mins
 
-Python       9 hrs 34 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤-------   70.64 %
-Lua          3 hrs 37 mins   ¤¤¤¤¤¤¤------------------   26.72 %
-Vim Script   15 mins         -------------------------   01.94 %
-Bash         2 mins          -------------------------   00.35 %
-Other        2 mins          -------------------------   00.33 %
+Python   6 hrs 39 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤--   92.84 %
+SQL      24 mins         ¤------------------------   05.72 %
+Other    4 mins          -------------------------   00.98 %
+HTML     2 mins          -------------------------   00.47 %
 ```
 
 <!--END_SECTION:waka-->
