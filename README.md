@@ -29,14 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2025 - To: 26 April 2025
+From: 26 April 2025 - To: 03 May 2025
 
-Total Time: 5 hrs 30 mins
+Total Time: 6 hrs 19 mins
 
-HTML     2 hrs 23 mins   ¤¤¤¤¤¤¤¤¤¤¤--------------   43.52 %
-CSS      1 hr 33 mins    ¤¤¤¤¤¤¤------------------   28.28 %
-Python   1 hr 32 mins    ¤¤¤¤¤¤¤------------------   27.97 %
-Other    0 secs          -------------------------   00.23 %
+Python   3 hrs 37 mins   ¤¤¤¤¤¤¤¤¤¤¤¤¤¤-----------   57.34 %
+HTML     2 hrs 4 mins    ¤¤¤¤¤¤¤¤-----------------   32.77 %
+CSS      37 mins         ¤¤-----------------------   09.75 %
+Other    0 secs          -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
