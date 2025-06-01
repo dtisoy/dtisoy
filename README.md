@@ -29,11 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 24 May 2025 - To: 31 May 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 50 mins
 
-No activity tracked
+Python       1 hr 11 mins    ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤---------   64.40 %
+HTML         35 mins         ¤¤¤¤¤¤¤¤-----------------   32.19 %
+Text         2 mins          ¤------------------------   02.32 %
+Git Config   0 secs          -------------------------   00.59 %
+Other        0 secs          -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
