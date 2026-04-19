@@ -29,12 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2026 - To: 11 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Total Time: 4 hrs 59 mins
+Total Time: 2 hrs 26 mins
 
-Python   4 hrs 34 mins         ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤--   91.90 %
-Lua      24 mins               ¤¤-----------------------   08.10 %
+Python   1 hr 42 mins          ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤-------   70.14 %
+Lua      40 mins               ¤¤¤¤¤¤¤------------------   27.89 %
+Text     2 mins                -------------------------   01.97 %
 ```
 
 <!--END_SECTION:waka-->
