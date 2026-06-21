@@ -29,15 +29,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 13 June 2026 - To: 20 June 2026
 
-Total Time: 3 hrs 35 mins
+Total Time: 3 hrs 45 mins
 
-Python       3 hrs 21 mins         ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤--   93.50 %
-Markdown     7 mins                ¤------------------------   03.31 %
-Other        4 mins                -------------------------   01.99 %
-CSV          1 min                 -------------------------   00.63 %
-Git Config   1 min                 -------------------------   00.57 %
+Python       3 hrs 28 mins         ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤--   92.79 %
+Other        13 mins               ¤¤-----------------------   06.03 %
+CSV          2 mins                -------------------------   01.10 %
+Git Config   0 secs                -------------------------   00.05 %
+netrw        0 secs                -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
